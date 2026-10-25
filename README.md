@@ -458,7 +458,7 @@ Never place a private API key or database credential in a `VITE_` variable. Vite
 ---
 
 
-## 16. Features to Implement Next
+## 12. Features to Implement Next
 
 Prioritize these enhancements based on user value and technical dependencies.
 
@@ -500,7 +500,7 @@ These items are a roadmap, not a claim that the functionality already exists.
 
 
 
-## 17. Team
+## 13. Team
 
 We are collaborating to design, develop, and improve GD-APP. Visit our GitHub profiles to explore each member's work.
 
