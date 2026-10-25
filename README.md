@@ -502,13 +502,23 @@ These items are a roadmap, not a claim that the functionality already exists.
 
 ## 19. Team
 
-Update this section with the actual contributors and their responsibilities.
+We are collaborating to design, develop, and improve GD-APP. Visit our GitHub profiles to explore each member's work.
 
-| Team member | Responsibility |
-|---|---|
-| Prem Sharma | Full-stack developer — verify exact contributions |
-| Additional contributors | Add names and actual contributions if applicable |
+| Team Member | GitHub Username | GitHub Profile |
+|---|---|---|
+| Chirag Gautam | `chiraggautam17` | [github.com/chiraggautam17](https://github.com/chiraggautam17) |
+| Mridul Singh | `MridulSingh3` | [github.com/MridulSingh3](https://github.com/MridulSingh3) |
+| Prashant Sharma | `prashant8941` | [github.com/prashant8941](https://github.com/prashant8941) |
+| Prem Sharma | `premmsharma122` | [github.com/premmsharma122](https://github.com/premmsharma122) |
+
+> **Note:** Update the names or profile links if any collaborator's GitHub username differs from the repository collaborator list.
 
 ---
 
+## 20. Project Links
 
+- **Repository:** `<YOUR_REPOSITORY_URL>`
+- **Live Demo:** `<YOUR_DEPLOYED_FRONTEND_URL>`
+- **Demo Video:** Coming soon
+
+If you find this project useful, please ⭐ star the repository and share feedback.
