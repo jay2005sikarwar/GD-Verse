@@ -500,7 +500,7 @@ These items are a roadmap, not a claim that the functionality already exists.
 
 
 
-## 19. Team
+## 17. Team
 
 We are collaborating to design, develop, and improve GD-APP. Visit our GitHub profiles to explore each member's work.
 
@@ -512,7 +512,7 @@ We are collaborating to design, develop, and improve GD-APP. Visit our GitHub pr
 | Prashant Sharma | `prashant8941` | [github.com/prashant8941](https://github.com/prashant8941) |
 | Prem Sharma | `premmsharma122` | [github.com/premmsharma122](https://github.com/premmsharma122) |
 
-> **Note:** Update the names or profile links if any collaborator's GitHub username differs from the repository collaborator list.
+
 
 ---
 
