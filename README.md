@@ -7,7 +7,7 @@
 **Backend:** Node.js + Express.js + Socket.IO  
 **Database:** MongoDB + Mongoose  
 **Speech-to-text:** AssemblyAI  
-**Deployment target:** Netlify (frontend) + Render (backend)
+**Deployment target:** Netlify (frontend) + Render  (backend)
 
  
 
