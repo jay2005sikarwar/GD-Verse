@@ -9,7 +9,7 @@
 **Speech-to-text:** AssemblyAI  
 **Deployment target:** Netlify (frontend) + Render (backend)
 
-> **Project status note:** This README describes the intended architecture and development plan based on the current project outline. Before presenting it as final documentation, verify each feature, route, socket event, model field, and deployment URL against the actual source code. Label a feature “Implemented” only when it works in the running application.
+
 
 ---
 
