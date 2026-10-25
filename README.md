@@ -9,7 +9,7 @@
 **Speech-to-text:** AssemblyAI  
 **Deployment target:** Netlify (frontend) + Render (backend)
 
-
+ 
 
 ---
 
