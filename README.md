@@ -508,6 +508,7 @@ We are collaborating to design, develop, and improve GD-APP. Visit our GitHub pr
 |---|---|---|
 | Chirag Gautam | `chiraggautam17` | [github.com/chiraggautam17](https://github.com/chiraggautam17) |
 | Mridul Singh | `MridulSingh3` | [github.com/MridulSingh3](https://github.com/MridulSingh3) |
+| Jay Sikarwar | `jay2005sikarwar` | [github.com/jay2005sikarwar](https://github.com/jay2005sikarwar) |
 | Prashant Sharma | `prashant8941` | [github.com/prashant8941](https://github.com/prashant8941) |
 | Prem Sharma | `premmsharma122` | [github.com/premmsharma122](https://github.com/premmsharma122) |
 
