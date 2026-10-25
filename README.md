@@ -516,10 +516,4 @@ We are collaborating to design, develop, and improve GD-APP. Visit our GitHub pr
 
 ---
 
-## 20. Project Links
 
-- **Repository:** `<YOUR_REPOSITORY_URL>`
-- **Live Demo:** `<YOUR_DEPLOYED_FRONTEND_URL>`
-- **Demo Video:** Coming soon
-
-If you find this project useful, please ⭐ star the repository and share feedback.
