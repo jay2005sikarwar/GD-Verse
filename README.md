@@ -10,7 +10,7 @@
 **Deployment target:** Netlify (frontend) + Render  (backend)
 
  
-
+ 
 ---
 
 ## 1. What Is GD-APP?
